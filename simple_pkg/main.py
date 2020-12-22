@@ -1,5 +1,5 @@
 import graphviz
-import scikit_learn as sklearn
+import sklearn
 import dask
 import cv2
 import dask.array as da
